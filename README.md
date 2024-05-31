@@ -22,8 +22,6 @@ Repositorio: [Sustantiva](https://github.com/Blandskron/Sustantiva)
 
 Repositorio: [Material de Apoyo Python](https://github.com/Blandskron/Python)
 
-![Material de Apoyo Python](ruta/a/imagen/material-apoyo-python.png)
-
 ## Módulo 6
 
 ### Lección 1
@@ -154,4 +152,6 @@ Repositorio: [ProyectoFinalDjangoV2](https://github.com/Blandskron/ProyectoFinal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/blandskron)
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="blandskron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/blandskron?trk=profile-badge">Bastian Landskron</a></div>
+              
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>

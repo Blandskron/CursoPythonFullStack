@@ -150,8 +150,11 @@ Repositorio: [ProyectoFinalDjangoV2](https://github.com/Blandskron/ProyectoFinal
 
 ¡Gracias por visitar el repositorio del curso de Programación en Python! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/blandskron){:target="_blank"}
+
+
 <div style="display: inline;">
-    <img width="70" height="70" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
     <img width="70" height="70" src="https://img.icons8.com/color/48/django.png" alt="django"/>
 </div>
 

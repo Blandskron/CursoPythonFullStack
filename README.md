@@ -151,8 +151,15 @@ Repositorio: [ProyectoFinalDjangoV2](https://github.com/Blandskron/ProyectoFinal
 ¡Gracias por visitar el repositorio del curso de Programación en Python! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
 
 <div style="display: inline;">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+    <img width="70" height="70" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="70" height="70" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+</div>
+
+<div style="display: inline;">
     <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 </div>
 

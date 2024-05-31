@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Curso de Programación en Python
 
 Bienvenido al repositorio principal del curso de Programación en Python. Aquí encontrarás una serie de proyectos y ejercicios realizados durante el curso.

@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Curso de Programación en Python
 
 Bienvenido al repositorio principal del curso de Programación en Python. Aquí encontrarás una serie de proyectos y ejercicios realizados durante el curso.
@@ -151,8 +150,12 @@ Repositorio: [ProyectoFinalDjangoV2](https://github.com/Blandskron/ProyectoFinal
 
 ¡Gracias por visitar el repositorio del curso de Programación en Python! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/blandskron)
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="blandskron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/blandskron?trk=profile-badge">Bastian Landskron</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="blandskron" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/blandskron?trk=profile-badge">Bastian Landskron</a>
+</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+
